@@ -1,0 +1,54 @@
+{
+    "User": [
+        {
+            "username": "Neha",
+            "password": "Neha@21",
+            "Profile": {
+                "description": "maggie",
+                "Dob": "2134345",
+                "Gender": "f",
+                "Hobbies": "coding"
+            }
+        },
+        {
+            "username": "Deepti",
+            "password": "Deepti@21",
+            "Profile": {
+                "description": "maggie",
+                "Dob": "12 34 6000",
+                "Gender": "f",
+                "Hobbies": "coding"
+            }
+        },
+        {
+            "username": "pooja",
+            "password": "pooja@21",
+            "Profile": {
+                "description": "maggie",
+                "Dob": "12345",
+                "Gender": "f",
+                "Hobbies": "fishing"
+            }
+        },
+        {
+            "username": "Harsh",
+            "password": "Harsh@212",
+            "Profile": {
+                "description": "nothing",
+                "Dob": "16/07/2--2",
+                "Gender": "m",
+                "Hobbies": "sleeping"
+            }
+        },
+        {
+            "username": "Anshika",
+            "password": "Anshika@24",
+            "Profile": {
+                "description": "i like to watch movie",
+                "Dob": "24/03/2004",
+                "Gender": "female",
+                "Hobbies": "watching,listening"
+            }
+        }
+    ]
+}
